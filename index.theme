@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ok
+Comment=ok theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ok
+MetacityTheme=ok
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
