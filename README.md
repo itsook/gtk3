@@ -1,7 +1,7 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
 <div align="center">
-  <code>ok theme for gtk3</code> ~ this is modification of <a href="https://github.com/janleigh/gtk">janleigh's phork</a> of elkowar's fork of phocus but using the ok palette xD.
+  <code>ok theme for gtk3</code> ~ this is modification of <a href="https://github.com/janleigh/gtk3">janleigh's fork</a> of elkowar's fork of phocus but using the ok palette xD.
 </div>
 
 <img src="https://raw.githubusercontent.com/itsook/gtk3/main/.misc/screenshot.png" align="center" alt="preview">
